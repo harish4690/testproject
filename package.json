@@ -1,0 +1,26 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "test project for testing express api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test data"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish4690/testproject.git"
+  },
+  "keywords": [
+    "test",
+    "data"
+  ],
+  "author": "Harish Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish4690/testproject/issues"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "homepage": "https://github.com/harish4690/testproject#readme"
+}
